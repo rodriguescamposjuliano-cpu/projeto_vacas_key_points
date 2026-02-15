@@ -1,0 +1,215 @@
+{
+  "id": 89,
+  "result": [
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 13.004413619167718,
+        "y": 58.4045584045584,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "withers"
+        ]
+      },
+      "id": "fUBhpVcgZv",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 48.284906123020875,
+        "y": 63.53276353276354,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "back"
+        ]
+      },
+      "id": "U6YJA8TxZk",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 73.93249964971277,
+        "y": 18.51851851851852,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "hook up"
+        ]
+      },
+      "id": "1Ao9Cvo9Bb",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 75.0162007846434,
+        "y": 95.15669515669516,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "hook down"
+        ]
+      },
+      "id": "1LnvrOvyjU",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 75.61825697071599,
+        "y": 58.97435897435898,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "hip"
+        ]
+      },
+      "id": "pVRnNDi3ph",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 90.79007285974498,
+        "y": 54.700854700854705,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "tail head"
+        ]
+      },
+      "id": "hkf6d5P1Ff",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 97.89433585540142,
+        "y": 31.339031339031337,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "pin up"
+        ]
+      },
+      "id": "PlaOflYeL1",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 95.72693358554014,
+        "y": 71.7948717948718,
+        "width": 0.24082247442903182,
+        "keypointlabels": [
+          "pin down"
+        ]
+      },
+      "id": "eosGqHKq9Z",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1952,
+      "original_height": 825,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.7224674232870953,
+        "y": 1.1396011396011396,
+        "width": 98.73721451590303,
+        "height": 98.00569800569801,
+        "rotation": 0,
+        "rectanglelabels": [
+          "cow"
+        ]
+      },
+      "id": "e6R3Isj1Zr",
+      "from_name": "animal",
+      "to_name": "img-1",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " jrcgyn@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "jrcgyn@gmail.com"
+  },
+  "task": {
+    "id": 1603,
+    "data": {
+      "img": "/data/local-files/?d=Users/julianorodriguescampos/projeto_vacas_key_points/13%20-%20Juliano/RLC1_00_20260104214749_baia3_RLC1.jpg"
+    },
+    "meta": {},
+    "created_at": "2026-02-15T01:56:50.435065Z",
+    "updated_at": "2026-02-15T01:56:50.435069Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-02-15T02:21:05.607580Z",
+  "updated_at": "2026-02-15T02:21:05.607602Z",
+  "draft_created_at": "2026-02-15T02:20:40.536308Z",
+  "lead_time": 33.409,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 3,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
